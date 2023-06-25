@@ -1,0 +1,59 @@
+    {
+        "items": {
+          "bootstrap": [
+          ],
+          "elastic": [
+          ],
+          "responsive": [
+            {
+              "id": 1,
+              "date": "Année 2021",
+              "title": "Street n Old",
+              "text": "Poste : Auto-Entrepreuneur",
+              "Compétences": "Compétences : Analyse marketing, Stratégie d'enchère CPC, Gestion des stocks, Analyse du taux de rebond, Photographie, Fiche produit, Logistique.",
+              "Description": "Description : Création d'un e-commerce de seconde-main, dans une ambiance streetwear/vintage. Le but étant de rendre la mode accessible à tous, avec un concept moderne et écologique."
+
+            },
+            {
+              "id": 2,
+              "date": "Année 2020",
+              "title": "FootLocker",
+              "text": "Poste : Conseiller de vente",
+              "Compétences": "Compétences : Argument de vente, Organisation, Ventes additionnelles",
+              "Description": "Description : Le but étant d'accompagner et de conseiller le client pour ses achats, tout en le fidélisant."
+
+            },
+            {
+              "id": 3,
+              "date": " Année 2019",
+              "title": "H&M",
+              "text": "Poste : Conseiller de vente",
+              "Compétences": "Compétences : Argument de vente, Organisation, Ventes additionnelles",
+              "Description": "Description : Pendant les périodes de soldes, mon rôle était d'étiquetter les articles (anti-vols, prix) avec ensuite la mise en rayon des produits."
+
+
+            },
+            {
+              "id": 4,
+              "date": " Année 2018 à 2021",
+              "title": "Vendanges GH Mumm",
+              "text": "Poste : Cueilleur/Porteur",
+              "Description": "Description : J'ai eu la chande de participer à ce travail saisonnier 4 années de suite, afin de commercialiser le raisin après la récolte. Ce fut une très belle expérience."
+            },
+            {
+              "id": 5,
+              "date": " Année d'obtention : 2016",
+              "title": "BAC STI2D",
+              "text": "Spécialité : SIN",
+              "Description": "Description : J'ai obtenu mon baccalauréat en 2016 au lycée Léonard De Vinci où j'ai pu découvrir un avant goût du développement web."
+            },
+            {
+              "id": 5,
+              "date": "Juin/Juillet 2021",
+              "title": "Formation BGE",
+              "text": "Stagiaire de formation",
+              "Description": "Description : Cette formation m'a apprit les gestes et postures d'un chef d'Entreprise, composée de plusieurs modules (Marketing digital, Branding, Comptabilité..). C'est ce qui m'a permit de me lancer dans la création de mon Entreprise."
+            }
+          ]
+        }
+      }  
